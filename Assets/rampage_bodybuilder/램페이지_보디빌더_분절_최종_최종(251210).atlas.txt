@@ -1,0 +1,133 @@
+램페이지_보디빌더_분절_최종_최종(251210).png
+size:2048,2048
+filter:Linear,Linear
+scale:0.39
+Cape Front
+bounds:2,1213,464,142
+Cape button l
+bounds:1069,1971,22,22
+Cape button r
+bounds:1157,1974,26,19
+Cape rear 1
+bounds:2,1302,691,791
+rotate:90
+Cape rear 2
+bounds:1152,1233,760,834
+rotate:90
+badge
+bounds:426,1931,60,62
+calf l
+bounds:1169,1371,158,357
+offsets:0,1,158,361
+rotate:90
+calf r
+bounds:1853,1459,140,394
+rotate:180
+chain
+bounds:2,1956,261,37
+offsets:0,0,278,44
+crown
+bounds:729,1150,207,185
+rotate:180
+ear
+bounds:1942,1910,39,83
+eye l
+bounds:1390,1979,26,14
+offsets:0,1,26,16
+eye r
+bounds:827,1979,38,14
+offsets:28,71,66,85
+eye shadow l
+bounds:1040,1973,27,20
+eye shadow r
+bounds:787,1971,40,22
+eye white l
+bounds:579,1982,24,11
+offsets:0,1,24,12
+eye white r
+bounds:1184,1981,34,12
+eyebrow l
+bounds:1639,1967,30,26
+eyebrow r
+bounds:563,1965,65,28
+face
+bounds:1647,1340,167,204
+face 복사
+bounds:1105,1957,64,36
+offsets:0,3,64,39
+fist l
+bounds:7,1874,127,105
+fist r
+bounds:1304,1881,139,112
+offsets:0,0,148,124
+highlight l
+bounds:26,1989,6,4
+highlight r
+bounds:16,1989,8,4
+lower arm l
+bounds:1232,1132,203,165
+offsets:0,0,205,165
+rotate:180
+lower arm r
+bounds:1016,1194,244,190
+offsets:0,7,244,197
+rotate:180
+medal
+bounds:352,1910,73,83
+medal strap 1
+bounds:1289,1557,136,161
+rotate:90
+medal strap 2
+bounds:1421,1930,63,147
+rotate:90
+neck
+bounds:164,1150,120,180
+offsets:62,0,262,180
+nose
+bounds:487,1951,42,75
+rotate:90
+pelvis
+bounds:919,1124,258,165
+shoe l
+bounds:453,1150,210,160
+offsets:0,0,210,183
+rotate:180
+shoe r
+bounds:1139,1871,122,165
+rotate:90
+string 1 l
+bounds:1294,1955,16,38
+string 1 r
+bounds:1968,1919,23,74
+string 2 l
+bounds:282,1976,17,75
+rotate:90
+string 2 r
+bounds:209,1976,17,78
+rotate:90
+string 3 l
+bounds:1610,1939,27,54
+string 3 r
+bounds:1557,1942,27,51
+string 4 l
+bounds:421,1982,8,11
+offsets:0,0,10,11
+string 4 r
+bounds:1586,1938,25,55
+offsets:0,1,25,56
+string knot r
+bounds:2,1981,13,12
+thighs l
+bounds:1454,1458,204,392
+thighs r
+bounds:1656,1531,195,377
+torso
+bounds:767,1486,383,507
+offsets:0,2,383,509
+rotate:180
+upper arm l
+bounds:774,1306,245,242
+offsets:5,0,450,242
+upper arm r
+bounds:1196,1584,286,254
+offsets:0,18,295,272

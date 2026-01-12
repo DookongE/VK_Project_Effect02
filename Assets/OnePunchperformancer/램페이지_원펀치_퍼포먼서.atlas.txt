@@ -1,0 +1,151 @@
+램페이지_원펀치_퍼포먼서.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.66
+1
+bounds:1824,105,61,143
+offsets:0,2,61,145
+rotate:90
+arm l
+bounds:1708,1331,331,329
+offsets:153,0,484,329
+arm r
+bounds:590,12,464,307
+offsets:0,0,466,307
+body
+bounds:2,38,586,680
+offsets:0,14,586,694
+calf L
+bounds:1181,1147,262,545
+offsets:1,1,263,549
+calf R
+bounds:1445,1175,261,517
+offsets:4,11,265,530
+cape front l
+bounds:1056,4,302,237
+offsets:0,0,302,238
+cape front r
+bounds:1631,310,207,180
+offsets:440,172,647,352
+rotate:90
+cape rear
+bounds:2,720,1177,1326
+cape-button l
+bounds:1920,63,36,40
+cape-button r
+bounds:1898,534,36,40
+rotate:90
+cape-chain
+bounds:1878,874,304,102
+rotate:90
+chest
+bounds:1181,1694,542,352
+offsets:2,0,545,354
+chin shadow
+bounds:1445,1147,26,8
+offsets:0,0,27,9
+rotate:90
+eye light l
+bounds:1508,512,7,5
+eye light r
+bounds:1813,338,9,6
+offsets:0,0,9,7
+eye pupil l
+bounds:1631,243,14,18
+offsets:0,0,15,18
+eye pupil r
+bounds:1480,731,19,19
+eye white l
+bounds:1071,694,36,24
+offsets:0,1,36,26
+eye white r
+bounds:1631,263,45,31
+offsets:0,1,46,32
+rotate:90
+eyebrow l
+bounds:2,3,46,33
+offsets:0,1,46,34
+eyebrow r
+bounds:1982,1091,87,42
+offsets:0,0,88,42
+rotate:90
+face
+bounds:1391,243,238,267
+fist l
+bounds:1665,105,157,203
+fist r
+bounds:1718,659,203,175
+offsets:0,1,203,176
+rotate:90
+foot l
+bounds:1708,1180,331,149
+offsets:1,1,333,166
+foot r
+bounds:1813,346,184,183
+offsets:0,1,185,260
+rotate:90
+forearm l
+bounds:1360,20,221,303
+offsets:0,1,222,304
+rotate:90
+forearm r
+bounds:1725,1662,384,316
+offsets:0,0,385,316
+rotate:90
+mask
+bounds:1071,243,267,318
+offsets:0,1,268,319
+rotate:90
+mask neck
+bounds:1824,168,176,170
+rotate:90
+mouth
+bounds:1962,577,80,41
+offsets:0,0,80,42
+rotate:90
+mouth shadow
+bounds:1708,1665,27,10
+rotate:90
+mustache
+bounds:1665,41,148,62
+offsets:0,0,149,62
+neck
+bounds:1071,512,435,179
+offsets:0,3,512,185
+neck 2
+bounds:1508,519,208,231
+offsets:0,0,316,231
+nose
+bounds:1815,40,63,103
+offsets:1,0,64,105
+rotate:90
+pelvis
+bounds:1480,752,421,197
+rotate:90
+shoestring L
+bounds:1969,113,53,77
+rotate:90
+shoestring L2
+bounds:1895,659,36,120
+offsets:0,0,36,121
+rotate:90
+shoestring R
+bounds:1898,572,62,85
+shoestring R2
+bounds:1679,757,35,105
+shoulder l
+bounds:1718,532,178,125
+shoulder r
+bounds:1679,864,309,197
+rotate:90
+shoulder r 2
+bounds:1895,697,175,123
+offsets:0,0,218,129
+rotate:90
+thigh L
+bounds:590,321,479,397
+offsets:0,122,479,519
+thigh R
+bounds:1181,693,297,452
+offsets:0,1,298,453

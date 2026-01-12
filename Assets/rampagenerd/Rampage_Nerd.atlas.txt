@@ -1,0 +1,128 @@
+Rampage_Nerd.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.39
+L arm back
+bounds:1554,282,197,183
+L arm lower
+bounds:1429,331,379,123
+rotate:90
+L arm upper
+bounds:1568,1047,428,317
+L backpack strap
+bounds:1178,1421,186,498
+rotate:90
+L feet
+bounds:825,70,351,190
+L hand
+bounds:601,93,222,188
+L leg lower
+bounds:2,15,423,489
+L leg upper
+bounds:563,1686,690,360
+L outter
+bounds:2,506,274,795
+offsets:0,6,274,801
+R arm back
+bounds:1753,273,209,148
+rotate:90
+R arm lower
+bounds:427,2,279,172
+rotate:90
+R arm upper
+bounds:1243,868,551,323
+rotate:90
+R backpack strap
+bounds:1513,715,115,227
+rotate:90
+R feet
+bounds:1260,321,389,167
+rotate:90
+R leg lower
+bounds:487,283,404,455
+R leg upper
+bounds:903,704,592,338
+rotate:90
+R outer
+bounds:278,521,207,780
+backhair
+bounds:1993,1962,39,84
+backpack
+bounds:2,1303,559,743
+badge1
+bounds:1276,73,56,94
+rotate:90
+badge2
+bounds:1865,1622,56,94
+rotate:90
+body
+bounds:563,1298,386,613
+offsets:0,0,395,613
+rotate:90
+darkcircle
+bounds:1178,1632,73,52
+eye
+bounds:1513,832,34,31
+rotate:90
+eyeblow
+bounds:1178,1316,103,63
+rotate:90
+eyeline
+bounds:1865,1680,96,62
+eyewhite
+bounds:1568,1370,73,49
+hair
+bounds:601,23,68,197
+rotate:90
+hair #1
+bounds:1712,484,96,229
+rotate:90
+hair #2
+bounds:1178,45,96,215
+offsets:0,0,97,215
+hair #3
+bounds:1437,86,78,243
+hair #4
+bounds:1742,703,127,263
+offsets:0,2,128,265
+rotate:90
+hair #5
+bounds:1517,69,84,163
+rotate:90
+hair #6
+bounds:1712,582,119,271
+offsets:0,0,121,271
+rotate:90
+hair #7
+bounds:1554,467,156,246
+hand R
+bounds:1243,712,268,154
+offsets:3,0,271,154
+head
+bounds:893,262,365,440
+offsets:0,2,365,442
+headbend1
+bounds:1255,1744,736,302
+headbend2
+bounds:1255,1609,608,133
+mouth
+bounds:1998,1336,24,28
+mouth lower
+bounds:2,2,11,9
+rotate:90
+neck
+bounds:1276,131,159,188
+neckback
+bounds:1568,832,406,213
+neckfront
+bounds:1517,155,125,197
+offsets:0,0,127,197
+rotate:90
+nose
+bounds:1178,1609,21,17
+rotate:90
+outter back
+bounds:487,740,414,556
+pevis
+bounds:1678,1366,368,241
