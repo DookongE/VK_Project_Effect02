@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0ac644e7362bfbe4ab07c49835edba6c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _RimLight_RampMap: {fileID: 2800000, guid: 2373d80a884e0ae468af7807baa19470, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

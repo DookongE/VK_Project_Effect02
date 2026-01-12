@@ -1,0 +1,72 @@
+gangdo_low.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.42
+Body
+bounds:452,244,381,326
+L_arm 1
+bounds:570,68,174,251
+rotate:90
+L_arm 2
+bounds:1824,831,147,309
+L_coat
+bounds:2,229,448,341
+offsets:1,0,449,341
+L_foot 1
+bounds:1212,28,161,89
+L_foot 2
+bounds:339,24,203,229
+rotate:90
+L_hand
+bounds:1062,32,148,209
+L_leg 1
+bounds:1207,321,305,249
+L_leg 2
+bounds:1514,301,269,299
+rotate:90
+L_leg Back
+bounds:1491,165,173,134
+Neck
+bounds:1375,20,99,112
+rotate:90
+Pelvis
+bounds:1824,1432,290,178
+rotate:90
+R_arm 1
+bounds:1367,121,198,122
+rotate:90
+R_arm 1 Back
+bounds:1791,134,82,92
+R_arm 2
+bounds:2,39,335,188
+R_coat
+bounds:1824,1142,174,288
+R_coat Back
+bounds:1824,558,188,271
+R_foot 1
+bounds:1666,143,123,83
+R_foot 2
+bounds:1212,119,153,200
+R_hand
+bounds:1858,232,129,80
+R_hand 1
+bounds:2,2,35,22
+rotate:90
+R_hand 2
+bounds:1666,228,190,71
+R_knife
+bounds:835,243,290,83
+R_leg 1
+bounds:1824,1724,214,322
+R_leg 2
+bounds:835,328,370,242
+cap
+bounds:823,76,237,165
+cap back
+bounds:1127,286,76,40
+레이어 1
+bounds:1815,314,201,242
+offsets:1,0,202,242
+레이어 37
+bounds:2,572,1820,1474
