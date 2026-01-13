@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5039C511-77DF-4619-97B0-81437750FA4E}</ProjectGuid>
+    <ProjectGuid>{83F7C56C-13C9-7CF5-F74C-4F13BA99A004}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AmplifyShaderEditor</AssemblyName>
