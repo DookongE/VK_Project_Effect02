@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{02D8CA92-3E27-BEC1-287B-72AB45836F39}</ProjectGuid>
+    <ProjectGuid>{7CACB5A2-4064-3C26-CE11-102385E37FE0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>spine-timeline-editor</AssemblyName>
@@ -1000,15 +1000,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="spine-unity.csproj">
-      <Project>{CD83DF28-9660-DD5F-E8B1-2A18F35933B9}</Project>
+      <Project>{34D87D67-99EB-D860-868D-F6E1EEC2C776}</Project>
       <Name>spine-unity</Name>
     </ProjectReference>
     <ProjectReference Include="spine-unity-editor.csproj">
-      <Project>{C3D32E0B-DE87-87FA-982C-DDDB80F141FA}</Project>
+      <Project>{7DA12F99-A621-0919-98D8-BC65153A9870}</Project>
       <Name>spine-unity-editor</Name>
     </ProjectReference>
     <ProjectReference Include="spine-timeline.csproj">
-      <Project>{2AE5A8A4-594F-890C-2752-18FB4AEC6EAE}</Project>
+      <Project>{079D5127-818F-2AC9-6C0D-1F4DF4BDFE92}</Project>
       <Name>spine-timeline</Name>
     </ProjectReference>
   </ItemGroup>
