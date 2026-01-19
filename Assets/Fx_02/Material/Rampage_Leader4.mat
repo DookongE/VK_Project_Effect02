@@ -73,7 +73,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 4e18b8237d69533429a10936c4511f81, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 1, y: 1.3}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -132,7 +132,7 @@ Material:
     - _Dissolve_Way_UV_Choose: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _Emission_Strength: 5
+    - _Emission_Strength: 7
     - _EnvironmentReflections: 1
     - _Flow_Scale_UVChoose: 0
     - _Flow_WorldPosition: 0
