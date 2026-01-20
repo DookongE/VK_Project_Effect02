@@ -1,0 +1,108 @@
+강도단 투견 (치와와) 최종.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.39
+Upper Leg L
+bounds:801,810,77,127
+offsets:3,10,80,137
+rotate:90
+back shouler l
+bounds:813,729,39,84
+offsets:0,0,45,84
+cheek
+bounds:650,1005,25,17
+ear l
+bounds:853,730,42,54
+ear r
+bounds:954,934,62,88
+offsets:0,0,64,88
+eye black l
+bounds:1006,1005,8,17
+offsets:0,0,8,18
+eye black r
+bounds:532,1000,25,22
+offsets:0,0,25,23
+eye l
+bounds:720,1001,13,21
+eye shadow r
+bounds:216,995,32,27
+eye white l
+bounds:896,1004,10,18
+eye white r
+bounds:866,1001,28,21
+front lower leg r
+bounds:660,753,43,100
+rotate:90
+front paw r
+bounds:359,984,50,38
+front upper leg r
+bounds:717,844,125,178
+rotate:180
+leash
+bounds:856,783,131,138
+rotate:90
+liquid
+bounds:514,725,158,46
+lower body
+bounds:408,826,175,196
+lower face
+bounds:540,775,119,81
+lower jaw
+bounds:355,730,70,35
+offsets:0,0,70,38
+lower leg l
+bounds:688,788,67,128
+rotate:90
+lower paw l
+bounds:813,985,51,37
+rear lower leg l
+bounds:770,726,35,69
+offsets:9,1,44,70
+rear lower leg r
+bounds:404,747,59,106
+rotate:90
+rear paw l
+bounds:562,990,50,32
+rear paw r 복사
+bounds:608,992,41,30
+rear upper leg l
+bounds:75,774,85,77
+offsets:1,8,86,85
+rear upper leg r
+bounds:844,873,110,149
+offsets:5,14,115,179
+shouler l
+bounds:471,772,61,86
+rotate:90
+shringe
+bounds:2,730,175,89
+rotate:90
+strap l
+bounds:868,686,154,142
+offsets:0,0,155,142
+rotate:180
+strap middle
+bounds:2,979,213,43
+offsets:0,3,213,46
+strap r
+bounds:893,729,121,129
+rotate:90
+tail
+bounds:80,713,54,75
+tongue
+bounds:83,970,58,27
+offsets:0,9,58,36
+torso
+bounds:116,735,303,287
+rotate:180
+tzone
+bounds:955,996,18,26
+offsets:4,2,22,32
+upper face
+bounds:3,898,121,97
+offsets:8,42,129,168
+upper jaw
+bounds:135,722,51,42
+vest
+bounds:569,833,189,151
+rotate:90
