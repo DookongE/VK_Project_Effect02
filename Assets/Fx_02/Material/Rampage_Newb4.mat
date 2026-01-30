@@ -20,14 +20,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rampage_Leader1
+  m_Name: Rampage_Newb4
   m_Shader: {fileID: 4800000, guid: f008c7d177962f74ebd7edda09936888, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _USE_CUSTOMDATA_ON
-  - _USE_DISSOLVE_ON
-  - _USE_FLOW_ON
   - _USE_VERTEXCOLOR_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -61,7 +59,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Dissolve_Tex:
-        m_Texture: {fileID: 2800000, guid: fe7f0c6c1a7dedb4a88f4be342959901, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -69,12 +67,12 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Flow_Tex:
-        m_Texture: {fileID: 2800000, guid: ef7a4403329a25e4d9faa5b340dafc2e, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ee7ed3bc5ca04df45a7336b45c488801, type: 3}
-        m_Scale: {x: 1, y: 1.3}
+        m_Texture: {fileID: 2800000, guid: 21d3a0c588c4fc74f8ac3b5f126b599b, type: 3}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -127,13 +125,13 @@ Material:
     - _DetailNormalMapScale: 1
     - _Dissolve_Affects_Flow: 0
     - _Dissolve_Affects_Mask_Offset: 0
-    - _Dissolve_Hardness: 1
+    - _Dissolve_Hardness: 10
     - _Dissolve_Light_Value: 0.18
     - _Dissolve_Way_1x_Param: 0.608
     - _Dissolve_Way_UV_Choose: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _Emission_Strength: 5
+    - _Emission_Strength: 10
     - _EnvironmentReflections: 1
     - _Flow_Scale_UVChoose: 0
     - _Flow_WorldPosition: 0
@@ -162,10 +160,10 @@ Material:
     - _Surface: 0
     - _Use_CustomData: 1
     - _Use_DepthFade: 0
-    - _Use_Dissolve: 1
+    - _Use_Dissolve: 0
     - _Use_Dissolve_Light: 0
     - _Use_Dissolve_Way: 0
-    - _Use_Flow: 1
+    - _Use_Flow: 0
     - _Use_Mask_FullColor: 0
     - _Use_Mask_SStep: 0
     - _Use_RimLight: 0
@@ -186,8 +184,8 @@ Material:
     - _Dissolve_Light_Color: {r: 0, g: 1, b: 0.7142856, a: 1}
     - _Dissolve_Speed: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Flow_Scale: {r: 0, g: 0.1, b: 0, a: 0}
-    - _Flow_Speed: {r: 0, g: 0.2, b: 0, a: 0}
+    - _Flow_Scale: {r: 0, g: 0, b: 0, a: 0}
+    - _Flow_Speed: {r: 0, g: 0, b: 0, a: 0}
     - _Flow_WP_Tiling: {r: 0, g: 0, b: 0, a: 0}
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
     - _MainTex_SStep: {r: 0, g: 0, b: 0, a: 0}

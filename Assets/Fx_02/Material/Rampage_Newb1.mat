@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rampage_Leader1
+  m_Name: Rampage_Newb1
   m_Shader: {fileID: 4800000, guid: f008c7d177962f74ebd7edda09936888, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -61,7 +61,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Dissolve_Tex:
-        m_Texture: {fileID: 2800000, guid: fe7f0c6c1a7dedb4a88f4be342959901, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8057c2a614385a5499388e07d120ce96, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -73,8 +73,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ee7ed3bc5ca04df45a7336b45c488801, type: 3}
-        m_Scale: {x: 1, y: 1.3}
+        m_Texture: {fileID: 2800000, guid: 4de2e05f5c8c5d34eb36dcbbe40c93ab, type: 3}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -127,7 +127,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _Dissolve_Affects_Flow: 0
     - _Dissolve_Affects_Mask_Offset: 0
-    - _Dissolve_Hardness: 1
+    - _Dissolve_Hardness: 10
     - _Dissolve_Light_Value: 0.18
     - _Dissolve_Way_1x_Param: 0.608
     - _Dissolve_Way_UV_Choose: 0
