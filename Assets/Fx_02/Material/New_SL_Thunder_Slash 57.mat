@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SL_Thunder_Slash 29
+  m_Name: New_SL_Thunder_Slash 57
   m_Shader: {fileID: 4800000, guid: f008c7d177962f74ebd7edda09936888, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -63,7 +63,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Dissolve_Tex:
         m_Texture: {fileID: 2800000, guid: 1d7374195370d3945ab87f4578360fa9, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 1, y: 0.78}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
