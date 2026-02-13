@@ -20,12 +20,13 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CRLT_Shild_1 8
+  m_Name: New_CRLT_Shield_Buff1
   m_Shader: {fileID: 4800000, guid: f008c7d177962f74ebd7edda09936888, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _USE_CUSTOMDATA_ON
+  - _USE_DISSOLVE_ON
   - _USE_VERTEXCOLOR_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -59,8 +60,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Dissolve_Tex:
-        m_Texture: {fileID: 2800000, guid: 3f15bab1bb4c3c34d97385724edd6b09, type: 3}
-        m_Scale: {x: 2, y: 2}
+        m_Texture: {fileID: 2800000, guid: 65050a2678ea84049a741e1cb217e20c, type: 3}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
@@ -71,9 +72,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 6313bfb20b3dc584abfdbe1f93bcb584, type: 3}
-        m_Scale: {x: 2.5, y: 1.11}
-        m_Offset: {x: 0.82, y: 0}
+        m_Texture: {fileID: 2800000, guid: 13e563b7a4cce8f48ad459987bddf806, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -119,19 +120,19 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Color_Affects_Mask_Offset: 0
     - _Control_Alpha_In_Material: 0
-    - _Cull: 2
+    - _Cull: 0
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _Dissolve_Affects_Flow: 0
     - _Dissolve_Affects_Mask_Offset: 0
-    - _Dissolve_Hardness: 10
+    - _Dissolve_Hardness: 5
     - _Dissolve_Light_Value: 0.18
     - _Dissolve_Way_1x_Param: 0.608
     - _Dissolve_Way_UV_Choose: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _Emission_Strength: 10
+    - _Emission_Strength: 8
     - _EnvironmentReflections: 1
     - _Flow_Scale_UVChoose: 0
     - _Flow_WorldPosition: 0
@@ -160,7 +161,7 @@ Material:
     - _Surface: 0
     - _Use_CustomData: 1
     - _Use_DepthFade: 0
-    - _Use_Dissolve: 0
+    - _Use_Dissolve: 1
     - _Use_Dissolve_Light: 0
     - _Use_Dissolve_Way: 0
     - _Use_Flow: 0
@@ -182,10 +183,10 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Dissolve_Light_Color: {r: 0, g: 1, b: 0.7142856, a: 1}
-    - _Dissolve_Speed: {r: 0, g: 2, b: 0, a: 0}
+    - _Dissolve_Speed: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Flow_Scale: {r: -1, g: -0.57, b: 0, a: 0}
-    - _Flow_Speed: {r: 0.48, g: -0.42, b: 0, a: 0}
+    - _Flow_Scale: {r: 0, g: 0, b: 0, a: 0}
+    - _Flow_Speed: {r: 0, g: 0, b: 0, a: 0}
     - _Flow_WP_Tiling: {r: 0, g: 0, b: 0, a: 0}
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
     - _MainTex_SStep: {r: 0, g: 0, b: 0, a: 0}
@@ -194,7 +195,7 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SubColor_N_LightDirection: {r: 1, g: 0, b: 0, a: 0}
     - _SubColor_SStep: {r: 0, g: 0, b: 0, a: 0}
-    - _SubColor_Speed: {r: 0, g: 0, b: 0, a: 0}
+    - _SubColor_Speed: {r: 0, g: -1, b: 0, a: 0}
     - _VTex_UVW2: {r: 0, g: 0, b: 0, a: 1}
     - _ViewDirection: {r: 0, g: 0, b: 1, a: 0}
   m_BuildTextureStacks: []
