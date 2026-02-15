@@ -28,6 +28,7 @@ Material:
   - _USE_CUSTOMDATA_ON
   - _USE_DISSOLVE_ON
   - _USE_MASK_FULLCOLOR_ON
+  - _USE_SUBCOLOR_ON
   - _USE_VERTEXCOLOR_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -61,7 +62,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Dissolve_Tex:
-        m_Texture: {fileID: 2800000, guid: dabe3ba3795a0f64a886edade87c7e8b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0b98bad83f920e141910858b46b1f8e2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -73,7 +74,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 65951b6738bcf3546b734f0275a2aadd, type: 3}
+        m_Texture: {fileID: 2800000, guid: 191aa58f105e3a044b32ddf2b0144bba, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -93,7 +94,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SubColor_Tex:
-        m_Texture: {fileID: 2800000, guid: 3523134945acac84dbee4eee35ae815f, type: 3}
+        m_Texture: {fileID: 2800000, guid: aa4596fffeab9dc48b19a308e492792c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -169,7 +170,7 @@ Material:
     - _Use_Mask_FullColor: 1
     - _Use_Mask_SStep: 0
     - _Use_RimLight: 0
-    - _Use_SubColor: 0
+    - _Use_SubColor: 1
     - _Use_SubColor_As_Normal: 0
     - _Use_SubColor_FullColor: 0
     - _Use_SubColor_SStep: 0
