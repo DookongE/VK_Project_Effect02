@@ -1,0 +1,178 @@
+ChampionWannabe.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.39
+ancle l
+bounds:585,360,182,298
+rotate:90
+ancle r
+bounds:323,521,175,415
+rotate:90
+ancle r add v2
+bounds:723,634,171,388
+rotate:180
+arm pad r
+bounds:248,417,105,80
+arm r
+bounds:895,836,125,186
+offsets:1,0,126,186
+armband l
+bounds:646,960,94,62
+bandana 1
+bounds:360,151,165,76
+rotate:180
+bandana 2
+bounds:356,186,148,76
+bandana 3
+bounds:2,169,153,62
+offsets:0,0,154,62
+belt1
+bounds:33,987,41,35
+belt2_l
+bounds:473,868,43,154
+belt2_r
+bounds:134,152,99,157
+offsets:0,0,99,158
+rotate:270
+belt3
+bounds:810,142,212,118
+rotate:180
+body
+bounds:2,647,311,375
+offsets:0,0,311,379
+chest
+bounds:2,310,233,178
+offsets:0,0,246,181
+rotate:180
+ear
+bounds:2,969,29,53
+eye shadow 2 r
+bounds:517,1006,19,16
+eye shadow l
+bounds:535,1012,12,10
+offsets:1,0,13,10
+eye shadow r
+bounds:689,1002,10,20
+offsets:6,4,16,24
+eye white l
+bounds:76,1005,20,17
+offsets:0,0,20,18
+eye white r
+bounds:859,997,27,25
+offsets:2,0,29,26
+eyeball l
+bounds:112,1007,15,15
+eyeball r
+bounds:96,1003,16,19
+eyebrow l
+bounds:129,1012,19,10
+offsets:0,0,20,10
+eyebrow r
+bounds:896,840,54,37
+offsets:4,6,58,44
+eyeleash_l1
+bounds:546,1016,12,6
+offsets:0,1,12,7
+eyeleash_l2
+bounds:700,1010,13,12
+offsets:0,0,14,12
+eyeleash_l3
+bounds:228,1015,7,7
+eyeleash_r1
+bounds:635,997,35,25
+eyeleash_r2
+bounds:208,1011,18,11
+eyeleash_r3
+bounds:412,1003,7,19
+offsets:1,0,9,19
+finger 2 l
+bounds:967,995,36,27
+finger l
+bounds:421,949,47,73
+offsets:0,4,47,77
+finger l 6
+bounds:13,827,30,26
+finger l3
+bounds:228,973,35,49
+offsets:0,0,36,50
+finger l4
+bounds:2,854,38,39
+finger l5
+bounds:683,932,44,35
+fist back l
+bounds:244,187,108,78
+fist l
+bounds:896,725,113,109
+fist r
+bounds:672,178,137,105
+offsets:0,0,144,105
+rotate:180
+foot add v2
+bounds:224,266,179,142
+offsets:0,0,179,147
+rotate:180
+foot l
+bounds:77,228,97,165
+rotate:90
+foot r
+bounds:522,186,112,128
+offsets:0,0,112,140
+rotate:270
+forearm l
+bounds:2,196,128,96
+rotate:90
+forearm l_band
+bounds:740,534,98,69
+rotate:90
+forearm r
+bounds:843,205,179,127
+rotate:180
+hair
+bounds:668,244,183,117
+rotate:180
+hair 2
+bounds:360,997,52,25
+hair 3
+bounds:849,707,56,44
+hip
+bounds:822,452,249,200
+offsets:1,1,251,202
+rotate:90
+light l
+bounds:676,1013,11,9
+light r
+bounds:485,1013,14,9
+lip down
+bounds:613,993,25,29
+lip up
+bounds:654,1000,30,22
+offsets:0,0,31,23
+mouth
+bounds:974,966,33,27
+offsets:0,0,36,30
+mouth2
+bounds:470,1009,13,13
+neck2
+bounds:410,223,121,147
+offsets:0,0,140,147
+nose
+bounds:311,682,46,61
+offsets:0,0,46,62
+pelvis
+bounds:342,341,233,187
+offsets:13,114,246,301
+shoulder l
+bounds:829,302,139,193
+rotate:270
+thigh l
+bounds:501,656,366,221
+rotate:270
+thigh l add
+bounds:256,689,286,333
+thigh r
+bounds:2,467,210,310
+offsets:2,0,212,310
+rotate:90
+upper eye r
+bounds:522,288,146,155
+offsets:1,0,147,155
