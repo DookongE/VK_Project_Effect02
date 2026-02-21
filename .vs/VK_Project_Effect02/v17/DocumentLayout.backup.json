@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Project\\VK_Project_Effect02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738BD9C0-3294-6750-CD7B-4A8BFB279C15}|Assembly-CSharp.csproj|e:\\project\\vk_project_effect02\\assets\\fx_02\\shader\\black_white_fx02_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{738BD9C0-3294-6750-CD7B-4A8BFB279C15}|Assembly-CSharp.csproj|solutionrelative:assets\\fx_02\\shader\\black_white_fx02_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Black_White_fx02_Shader.shader",
+              "DocumentMoniker": "E:\\Project\\VK_Project_Effect02\\Assets\\Fx_02\\Shader\\Black_White_fx02_Shader.shader",
+              "RelativeDocumentMoniker": "Assets\\Fx_02\\Shader\\Black_White_fx02_Shader.shader",
+              "ToolTip": "E:\\Project\\VK_Project_Effect02\\Assets\\Fx_02\\Shader\\Black_White_fx02_Shader.shader",
+              "RelativeToolTip": "Assets\\Fx_02\\Shader\\Black_White_fx02_Shader.shader",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-20T22:15:22.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

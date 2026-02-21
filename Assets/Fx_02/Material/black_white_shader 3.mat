@@ -36,8 +36,8 @@ Material:
     - _ZTest: 8
     - _flip: 0.627
     - _min: 0.56
-    - _smooth: 0.166
-    - _threshold: 0.431
+    - _smooth: 0.18
+    - _threshold: 0.689
     - _use_alpha: 1
     - _use_alpha_flip: 0
     - _width: 0.2
