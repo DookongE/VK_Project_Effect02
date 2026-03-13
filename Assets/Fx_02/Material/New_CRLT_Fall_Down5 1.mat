@@ -20,14 +20,15 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SL_Thunder_Slash 36
+  m_Name: New_CRLT_Fall_Down5 1
   m_Shader: {fileID: 4800000, guid: f008c7d177962f74ebd7edda09936888, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - _MASK_FADE_U_ON
+  - _MASK_FADE_V_ON
   - _USE_CUSTOMDATA_ON
   - _USE_DISSOLVE_ON
-  - _USE_FLOW_ON
   - _USE_VERTEXCOLOR_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -61,7 +62,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Dissolve_Tex:
-        m_Texture: {fileID: 2800000, guid: 3f15bab1bb4c3c34d97385724edd6b09, type: 3}
+        m_Texture: {fileID: 2800000, guid: 57c9cd00d2ba29441b6dd233b98f91dd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -69,11 +70,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Flow_Tex:
-        m_Texture: {fileID: 2800000, guid: 06dc37da4594aa14c896886946b92f28, type: 3}
+        m_Texture: {fileID: 2800000, guid: 24c31476ff51748468f55ab865c41ccc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 82d82257ee014134ca14cb02f3fc682d, type: 3}
+        m_Texture: {fileID: 2800000, guid: d3ab2aa149a673944a1351a2b961dfe7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -127,21 +128,21 @@ Material:
     - _DetailNormalMapScale: 1
     - _Dissolve_Affects_Flow: 0
     - _Dissolve_Affects_Mask_Offset: 0
-    - _Dissolve_Hardness: 10
+    - _Dissolve_Hardness: 0.5
     - _Dissolve_Light_Value: 0.18
     - _Dissolve_Way_1x_Param: 0.608
     - _Dissolve_Way_UV_Choose: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _Emission_Strength: 5
+    - _Emission_Strength: 10
     - _EnvironmentReflections: 1
     - _Flow_Scale_UVChoose: 0
     - _Flow_WorldPosition: 0
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Mask_Fade_U: 0
-    - _Mask_Fade_V: 0
+    - _Mask_Fade_U: 1
+    - _Mask_Fade_V: 1
     - _Mask_Offset_UVChoose: 0
     - _Mask_RAChoose: 0
     - _Metallic: 0
@@ -165,7 +166,7 @@ Material:
     - _Use_Dissolve: 1
     - _Use_Dissolve_Light: 0
     - _Use_Dissolve_Way: 0
-    - _Use_Flow: 1
+    - _Use_Flow: 0
     - _Use_Mask_FullColor: 0
     - _Use_Mask_SStep: 0
     - _Use_RimLight: 0
@@ -186,11 +187,11 @@ Material:
     - _Dissolve_Light_Color: {r: 0, g: 0.08091322, b: 0.058933426, a: 1}
     - _Dissolve_Speed: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Flow_Scale: {r: 0, g: -0.22, b: 0, a: 0}
-    - _Flow_Speed: {r: 0.52, g: 0.06, b: 0, a: 0}
+    - _Flow_Scale: {r: 0, g: 1.89, b: 0, a: 0}
+    - _Flow_Speed: {r: 0, g: 0.23, b: 0, a: 0}
     - _Flow_WP_Tiling: {r: 0, g: 0, b: 0, a: 0}
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
-    - _MainTex_SStep: {r: 0.28, g: 1, b: 0, a: 0}
+    - _MainTex_SStep: {r: 0, g: 1, b: 0, a: 0}
     - _Mask_Speed: {r: 0, g: 0, b: 0, a: 0}
     - _RimLight_Factor: {r: 0, g: 1, b: 5, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
