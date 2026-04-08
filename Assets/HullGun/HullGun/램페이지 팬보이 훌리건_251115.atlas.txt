@@ -1,0 +1,109 @@
+램페이지 팬보이 훌리건_251115.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.51
+L chain_lower
+bounds:1754,1267,250,290
+rotate:270
+L_arm lower
+bounds:1324,948,355,500
+L_arm upper
+bounds:1050,805,361,615
+rotate:180
+L_feet
+bounds:1085,497,472,296
+L_feet ribbon
+bounds:229,1969,31,77
+offsets:0,0,34,77
+L_finger 1
+bounds:2,10,109,241
+offsets:0,0,111,241
+L_finger 2
+bounds:1240,1826,116,220
+L_finger 3
+bounds:905,1182,147,146
+offsets:1,0,148,146
+L_finger 4
+bounds:1091,1512,119,129
+L_finger 5
+bounds:796,1864,83,107
+offsets:0,4,83,111
+L_hnad
+bounds:2,1722,282,324
+L_leg lower
+bounds:1474,1412,368,524
+L_leg upper
+bounds:178,2,576,810
+rotate:90
+Pevis
+bounds:872,1369,677,421
+offsets:0,0,677,442
+rotate:90
+R chain_lower
+bounds:1693,1683,363,340
+rotate:90
+R_arm lower
+bounds:1183,1402,398,593
+R_arm_upper
+bounds:811,2,522,619
+R_feet
+bounds:2,246,239,349
+R_feet ribbon
+bounds:2,1013,98,60
+offsets:0,0,99,61
+R_finger 1
+bounds:1748,2,108,274
+R_finger 2
+bounds:1754,278,141,271
+offsets:0,0,142,271
+R_finger 3
+bounds:1759,1496,110,236
+R_finger 4
+bounds:832,1183,103,199
+offsets:2,0,105,199
+R_finger 5
+bounds:535,2,170,302
+rotate:270
+R_hand
+bounds:1483,2,276,358
+R_hand acessery
+bounds:1408,774,242,165
+R_hand back
+bounds:229,462,238,78
+R_leg upper
+bounds:2,533,534,804
+rotate:90
+R_lge lower
+bounds:1155,2,339,518
+body
+bounds:2,1056,877,990
+canbadge1
+bounds:2,1072,123,123
+canbadge2
+bounds:2,1607,123,123
+chain_upper
+bounds:1736,851,416,128
+rotate:270
+earing
+bounds:2,1767,46,52
+offsets:3,0,49,52
+eye
+bounds:1758,532,270,116
+hair
+bounds:947,536,136,148
+head
+bounds:663,638,444,543
+offsets:0,2,444,545
+rotate:180
+hood_Back
+bounds:1645,646,378,163
+rotate:90
+hood_Front
+bounds:1652,1073,426,155
+offsets:0,0,426,161
+rotate:90
+mouth
+bounds:1048,1951,129,95
+offsets:0,0,131,96
+neck
+bounds:1506,346,288,381
